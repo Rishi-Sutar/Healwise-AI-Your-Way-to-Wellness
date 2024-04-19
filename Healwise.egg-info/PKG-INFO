@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Healwise
+Version: 0.0.0
+Author: Richie
+Author-email: rishisutar183@gmail.com
+Requires-Dist: pandas==2.2.1
+Requires-Dist: numpy==1.26.4
+Requires-Dist: scikit-learn==1.3.2
+Requires-Dist: streamlit

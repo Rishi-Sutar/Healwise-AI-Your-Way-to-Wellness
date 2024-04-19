@@ -1,0 +1,6 @@
+setup.py
+Healwise.egg-info/PKG-INFO
+Healwise.egg-info/SOURCES.txt
+Healwise.egg-info/dependency_links.txt
+Healwise.egg-info/requires.txt
+Healwise.egg-info/top_level.txt
