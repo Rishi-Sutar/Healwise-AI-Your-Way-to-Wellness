@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import pickle
-from src.utils import load_object
 from src.exceptions import CustomException
 from src.logger import logging
 import sys
